@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="16"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="437120991577053"
+    token="1326461377841595572"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="22859" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="549" />
+    <task
+        name="verifier"
+        duration="232" />
+
+    <artifact
+        location="E:\xiangmuyi\SNMall\ScrollViewContainer\build\outputs\apk\ScrollViewContainer-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="437120991577053"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\xiangmuyi\SNMall\ScrollViewContainer\build\outputs\apk\ScrollViewContainer-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
